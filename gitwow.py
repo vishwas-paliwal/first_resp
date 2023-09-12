@@ -1,0 +1,1 @@
+print('wow kya python hai!')
